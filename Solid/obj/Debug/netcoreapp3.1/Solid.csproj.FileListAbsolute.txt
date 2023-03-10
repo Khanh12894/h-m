@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\New folder\ImportAndExportDataUsingEPPLUS.CORE\EPPlusCore\Solid\obj\Debug\netcoreapp3.1\Solid.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\ImportAndExportDataUsingEPPLUS.CORE\EPPlusCore\Solid\obj\Debug\netcoreapp3.1\Solid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\New folder\ImportAndExportDataUsingEPPLUS.CORE\EPPlusCore\Solid\obj\Debug\netcoreapp3.1\Solid.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder\ImportAndExportDataUsingEPPLUS.CORE\EPPlusCore\Solid\obj\Debug\netcoreapp3.1\Solid.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder\ImportAndExportDataUsingEPPLUS.CORE\EPPlusCore\Solid\obj\Debug\netcoreapp3.1\Solid.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\ImportAndExportDataUsingEPPLUS.CORE\EPPlusCore\Solid\bin\Debug\netcoreapp3.1\Solid.exe
+C:\Users\Admin\Desktop\New folder\ImportAndExportDataUsingEPPLUS.CORE\EPPlusCore\Solid\bin\Debug\netcoreapp3.1\Solid.deps.json
+C:\Users\Admin\Desktop\New folder\ImportAndExportDataUsingEPPLUS.CORE\EPPlusCore\Solid\bin\Debug\netcoreapp3.1\Solid.runtimeconfig.json
+C:\Users\Admin\Desktop\New folder\ImportAndExportDataUsingEPPLUS.CORE\EPPlusCore\Solid\bin\Debug\netcoreapp3.1\Solid.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\New folder\ImportAndExportDataUsingEPPLUS.CORE\EPPlusCore\Solid\bin\Debug\netcoreapp3.1\Solid.dll
+C:\Users\Admin\Desktop\New folder\ImportAndExportDataUsingEPPLUS.CORE\EPPlusCore\Solid\bin\Debug\netcoreapp3.1\Solid.pdb
+C:\Users\Admin\Desktop\New folder\ImportAndExportDataUsingEPPLUS.CORE\EPPlusCore\Solid\obj\Debug\netcoreapp3.1\Solid.dll
+C:\Users\Admin\Desktop\New folder\ImportAndExportDataUsingEPPLUS.CORE\EPPlusCore\Solid\obj\Debug\netcoreapp3.1\Solid.pdb
+C:\Users\Admin\Desktop\New folder\ImportAndExportDataUsingEPPLUS.CORE\EPPlusCore\Solid\obj\Debug\netcoreapp3.1\Solid.genruntimeconfig.cache
